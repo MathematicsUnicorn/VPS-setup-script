@@ -182,7 +182,7 @@ echo "done"
 
 echo "installing JSFScan"
 git clone https://github.com/KathanP19/JSFScan.sh.git
-cd JSFScan
+cd JSFScan.sh
 chmod +x install.sh
 ./install.sh
 cd .. 
